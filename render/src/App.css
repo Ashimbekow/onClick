@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(118, 108, 108);
+}
+.App{
+  margin-left: 400px;
+  width: 500px;
+  height: 400px;
+  background-color: darkslategray;
+  border: 2px solid ;
+}
+h1{
+  text-align: center;
+}
+input{
+  margin-left: 170px;
+  padding-top: 5px;
+  gap: 20px;
+  display: block;
+}
+button{
+  margin-left: 150px;
+  margin-top: 10px;
+}
